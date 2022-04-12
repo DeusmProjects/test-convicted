@@ -1,4 +1,4 @@
-# The DPC 2021-2022 Winter Tour Regional Finals
+# The DPC
 
 ###### January 10, 2020 ######
 
