@@ -1,6 +1,6 @@
 # The DPC 2021-2022 Winter Tour Regional Finals
 
-###### January 8, 2020 ######
+###### January 10, 2020 ######
 
 ![Economic](https://github.com/DeusmProjects/test-convicted/blob/main/images/Rectangle%209.png)
 
